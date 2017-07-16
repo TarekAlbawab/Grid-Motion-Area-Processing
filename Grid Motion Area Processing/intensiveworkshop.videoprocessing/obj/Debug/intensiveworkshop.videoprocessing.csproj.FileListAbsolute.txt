@@ -1,0 +1,61 @@
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.exe.config
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.exe
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.pdb
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Controls.dll
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.dll
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Imaging.dll
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.dll
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Vision.dll
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.csprojResolveAssemblyReference.cache
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.Form1.resources
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.Properties.Resources.resources
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.csproj.GenerateResource.Cache
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.exe
+C:\Users\TB.TEC\Documents\Visual Studio 2013\Projects\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.pdb
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.exe.config
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.exe
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.pdb
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Controls.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Imaging.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Vision.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Math.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Controls.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Imaging.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Vision.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\bin\Debug\AForge.Math.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\IntensiveWorkshop.VideoProcessing.csprojResolveAssemblyReference.cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.Form1.resources
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.Properties.Resources.resources
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\IntensiveWorkshop.VideoProcessing.csproj.GenerateResource.Cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.exe
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\thistest\IntensiveWorkshop\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.pdb
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.exe.config
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.exe
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\intensiveworkshop.videoprocessing.pdb
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Controls.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Imaging.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Vision.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Math.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Controls.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Imaging.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Vision.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\bin\Debug\AForge.Math.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\obj\Debug\IntensiveWorkshop.VideoProcessing.csprojResolveAssemblyReference.cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.Form1.resources
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.Properties.Resources.resources
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\obj\Debug\IntensiveWorkshop.VideoProcessing.csproj.GenerateResource.Cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.exe
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Different_ways_of_video_processing\Grid Motion Area Processing\intensiveworkshop.videoprocessing\obj\Debug\intensiveworkshop.videoprocessing.pdb
